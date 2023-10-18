@@ -12,7 +12,7 @@
                         FOR BUSINESS ENQUIRIES
                     </h2>
                     <p class="text-body-color mb-9 text-base leading-relaxed mb-9 dark:text-gray-200">
-                        Whether you have a web development project in mind, need assistance with Laravel or Vue.js, or
+                        Whether you have a web development project in mind, need assistance with <span class="text-red-500">Laravel</span> or <span class="text-green-500">Vue</span>, or
                         simply have questions about my services, I'm here to help. Don't hesitate to get in touch
                         anytime. Your ideas and goals matter, and I'm eager to collaborate with you to turn them into
                         reality. Feel free to reach out, and let's start working together to achieve your web
